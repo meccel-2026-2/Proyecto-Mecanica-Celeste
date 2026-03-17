@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "proyecto-mecanica-celeste"
+version = "0.1.0"
+description = "Proyecto del curso de mecanica celeste"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "rebound",
+    "pymcel",
+]
+
+[tool.setuptools]
+py-modules = []
