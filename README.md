@@ -1,6 +1,6 @@
 # Proyecto-Mecanica-Celeste
 
-Proyecto académico del curso de Mecánica Celeste enfocado en la modelación numérica de trayectorias orbitales, con énfasis en el asteroide **99942 Apophis** y su evolución dinámica bajo un modelo de N-cuerpos.
+Proyecto académico del curso de Mecánica Celeste enfocado en el modelado numérico de trayectorias orbitales, con énfasis en el asteroide **99942 Apophis** y su evolución dinámica bajo un modelo de N-cuerpos.
 
 <img src="GIF apophis.gif" alt="Modelación de la trayectoria de 99942 Apophis">
 
