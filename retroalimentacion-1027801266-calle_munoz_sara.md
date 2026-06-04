@@ -27,6 +27,7 @@
 - Nota de ritmo de commits (promedio): 5.00 / 5.0
 
 Interpretación breve: Ritmo muy constante y sostenible durante el semestre.
+
 ## Retroalimentación
 
 - Archivo revisado: Def_Apophis_Proyecto.ipynb
@@ -37,12 +38,20 @@ Interpretación breve: Ritmo muy constante y sostenible durante el semestre.
 - Se aplican varias estrategias de modelado/validación y no un único experimento.
 - Hay secciones de metodología/resultados con interpretación de hallazgos.
 - La mayoria de celdas de código están contextualizadas con texto explicativo previo.
+- Excelente el análisis de sensibilidad y la manera como la inclusión de unos u otros planetas afectan la trayectoria posterior al paso cercano a la Tierra.
+- Excelente el análisis en el sistema rotante del CRTBP. 
+- La animación final te quedo ¡de maravilla!
 
 ### Aspectos por mejorar
 
 - Hay celdas de código muy largas; se recomienda modularizar en funciones y dividir bloques extensos.
+- La celda con rutinas es enorme. Se recomienda poner las rutinas justo antes de la primera vez que se utilizan.
+- El notebook apenas se abre en Visual se pone negro el fondo, revisa si se puede eliminar ese comportamiento.
+- Sería bueno que crearas una sección final con conclusiones.
+- Se recomienda cerrar con una sección unica de conclusiones (3-5 puntos) que sintetice hallazgos físicos y computacionales y responda directamente al objetivo del proyecto.
 
 ### Valoración global
 
-- Trabajo técnicamente sólido en términos generales, con oportunidades claras de mejora en presentación y calidad de reporte.
+- Trabajo excepcional con aplicación de todos los temas vistos en el curso y excelentes recursos técnicos.
+- Muy buena organización y excelente documentación de todoas los experimentos numéricos.
 - Estado de recepción: se recibe como fue entregado, con recomendaciones de mejora.
