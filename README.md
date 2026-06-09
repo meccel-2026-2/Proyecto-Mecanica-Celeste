@@ -10,7 +10,7 @@ Este repositorio reúne notebooks y recursos para estudiar, simular y visualizar
 
 ## Notebook principal
 
-El notebook principal es **`Apophis1.ipynb`**, donde se desarrolla el flujo completo del proyecto:
+El notebook principal es **`Def_Apophis_Proyecto.ipynb`**, donde se desarrolla el flujo completo del proyecto:
 - construcción del problema de N-cuerpos,
 - obtención de condiciones iniciales (efemérides),
 - integración numérica del sistema dinámico,
@@ -30,7 +30,7 @@ Modelar y analizar la trayectoria del asteroide 99942 Apophis mediante técnicas
 
 ## Estructura del repositorio
 
-- **`Apophis1.ipynb`**: notebook principal del proyecto (simulación y análisis de Apophis).
+- **`Def_Apophis_Proyecto.ipynb`**: notebook principal del proyecto (simulación y análisis de Apophis).
 - **`mecanica_celeste_setup.ipynb`**: notebook base para preparar entorno y dependencias.
 - **`GIF apophis.gif`**: animación de referencia de la trayectoria modelada.
 - **`requirements.txt`**: dependencias Python del proyecto.
