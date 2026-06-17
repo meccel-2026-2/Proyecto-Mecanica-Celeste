@@ -5,7 +5,7 @@
 
 ## Archivos revisados
 
-- Def_Apophis_Proyecto.ipynb (entregado)
+- Def_Apophis_Proyecto.ipynb (versión final entregada)
 
 ## Historial de commits
 
@@ -30,7 +30,7 @@ Interpretación breve: Ritmo muy constante y sostenible durante el semestre.
 
 ## Retroalimentación
 
-- Archivo revisado: Def_Apophis_Proyecto.ipynb
+- Archivo revisado: Def_Apophis_Proyecto.ipynb (versión final entregada)
 
 ### Aspectos positivos
 
@@ -44,14 +44,24 @@ Interpretación breve: Ritmo muy constante y sostenible durante el semestre.
 
 ### Aspectos por mejorar
 
-- Hay celdas de código muy largas; se recomienda modularizar en funciones y dividir bloques extensos.
-- La celda con rutinas es enorme. Se recomienda poner las rutinas justo antes de la primera vez que se utilizan.
-- El notebook apenas se abre en Visual se pone negro el fondo, revisa si se puede eliminar ese comportamiento.
-- Sería bueno que crearas una sección final con conclusiones.
-- Se recomienda cerrar con una sección unica de conclusiones (3-5 puntos) que sintetice hallazgos físicos y computacionales y responda directamente al objetivo del proyecto.
+- Hay celdas de código muy largas; se recomienda modularizar en funciones y dividir bloques extensos. [Mejorado]
+- La celda con rutinas es enorme. Se recomienda poner las rutinas justo antes de la primera vez que se utilizan. [Mejorado]
+- El notebook apenas se abre en Visual se pone negro el fondo, revisa si se puede eliminar ese comportamiento. [No mejorado]
+- Sería bueno que crearas una sección final con conclusiones. [Mejorado]
+- Se recomienda cerrar con una sección unica de conclusiones (3-5 puntos) que sintetice hallazgos físicos y computacionales y responda directamente al objetivo del proyecto. [Mejorado]
 
 ### Valoración global
 
 - Trabajo excepcional con aplicación de todos los temas vistos en el curso y excelentes recursos técnicos.
 - Muy buena organización y excelente documentación de todoas los experimentos numéricos.
 - Estado de recepción: se recibe como fue entregado, con recomendaciones de mejora.
+- El trabajo final quedo de excelente factura científica y numérica.
+
+## Valoración final
+
+- Mejoras implementadas: 4.00 (70%)
+- Aplicación al repositorio: 5.00 (10%)
+- Aspectos positivos: 5.00 (10%)
+- Valoración global: 4.75 (10%)
+
+**Nota final (redondeada)**: 0.7×4.00 + 0.1×5.00 + 0.1×5.00 + 0.1×4.75 = (redondeado) 4.3
